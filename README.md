@@ -1,3 +1,3 @@
-# Digital-Turbine-ML-Accelerator---DS-Summit-2025
+# Digital-Turbine-ML-Accelerator-DS-Summit-2025
 
 Two solutions for the Digital-Turbine-ML-Accelerator---DS-Summit-2025 Kaggle competition (https://www.kaggle.com/competitions/digital-turbine-ml-accelerator-ds-summit-2025). The first, contained in digital-turbine-ml-accelerator-ds-summit-2025.ipynb, uses three models: install model, has events model and ad revenue model, and achieves a private score of 0.27429 and a public score of 0.28335. The second, contained in digital-turbine-ml-accelerator-ds-summit-2025-v2.ipynb, replaces has events and ad revenue models with a single ad revenue model using the Tweedie objective function, and improves the scores by achieving a private score of 0.31209 and a public score of 0.30606.
